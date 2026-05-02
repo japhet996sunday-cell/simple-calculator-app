@@ -1,0 +1,58 @@
+/* ===== PAGE STYLE ===== */
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+/* ===== CALCULATOR BOX ===== */
+.calculator {
+  background: white;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+  width: 300px;
+  text-align: center;
+}
+
+/* ===== INPUT FIELDS ===== */
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+/* ===== BUTTONS ===== */
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+button {
+  flex: 1;
+  margin: 5px;
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  background: #2563eb;
+  color: white;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #1e40af;
+}
+
+/* ===== RESULT TEXT ===== */
+#result {
+  margin-top: 15px;
+}
