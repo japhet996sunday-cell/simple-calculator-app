@@ -35,3 +35,6 @@ Built to practice:
 - Add clear/reset button
 - Add history feature
 - Improve UI design
+
+## Live Demo
+https://japhet996sunday-cell.github.io/simple-calculator-app/
