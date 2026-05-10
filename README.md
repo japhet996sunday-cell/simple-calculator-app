@@ -38,3 +38,6 @@ Built to practice:
 
 ## Live Demo
 https://japhet996sunday-cell.github.io/simple-calculator-app/
+
+## 📂 Repository Link
+https://github.com/japhet996sunday-cell/simple-calculator-app
